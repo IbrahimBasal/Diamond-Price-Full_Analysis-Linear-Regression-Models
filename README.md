@@ -53,19 +53,20 @@ After some experiments, we decided to use Random Forest Regressor algorithm whic
 
 
 
-![download (1)](https://user-images.githubusercontent.com/71732836/194928996-84cb9c8c-3b12-41bd-9e05-773db53604cb.png)
+![Screenshot 2022-10-10 201907](https://user-images.githubusercontent.com/71732836/194929790-4300708c-3dfa-45d0-a31e-9e8b362feb8a.png)
 
 
-![download (4)](https://user-images.githubusercontent.com/71732836/194929025-56905fcc-7eb2-4ebb-8dcf-972da353bbf0.png)
+![Screenshot 2022-10-10 202018](https://user-images.githubusercontent.com/71732836/194929811-43fa8515-a4b0-46bc-a6b1-6b7563355a00.png)
 
 
-![download (5)](https://user-images.githubusercontent.com/71732836/194929040-e0976f8b-8dc9-4e24-b2db-4077cd9bff12.png)
+![newplot](https://user-images.githubusercontent.com/71732836/194929851-6907f214-e242-4c58-bbdc-d5535e2a973f.png)
 
 
-![newplot](https://user-images.githubusercontent.com/71732836/194929063-e4a1bec2-776b-446a-a4f7-054d35652746.png)
+![Screenshot 2022-10-10 202004](https://user-images.githubusercontent.com/71732836/194929823-b699a571-0179-454e-a5dd-ffaabfae3d91.png)
 
 
-![download (6)](https://user-images.githubusercontent.com/71732836/194929097-44499b6c-526b-4f02-9edc-79d6bdb5cf17.png)
+![Screenshot 2022-10-10 201809](https://user-images.githubusercontent.com/71732836/194929881-5d0d541c-d1a4-4218-b262-f638cdd9da3e.png)
 
 
-![download (7)](https://user-images.githubusercontent.com/71732836/194929108-ae0c8c2e-c170-4f2d-adca-f7060de33e9e.png)
+![Screenshot 2022-10-10 201731](https://user-images.githubusercontent.com/71732836/194929908-6af0f31d-9dc4-41a6-b2c3-23e352b6921e.png)
+
