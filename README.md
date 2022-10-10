@@ -62,6 +62,9 @@ After some experiments, we decided to use Random Forest Regressor algorithm whic
 ![newplot](https://user-images.githubusercontent.com/71732836/194929851-6907f214-e242-4c58-bbdc-d5535e2a973f.png)
 
 
+![Screenshot 2022-10-10 202035](https://user-images.githubusercontent.com/71732836/194930663-00f63448-2aa0-459e-84ff-de9c92783e8f.png)
+
+
 ![Screenshot 2022-10-10 202004](https://user-images.githubusercontent.com/71732836/194929823-b699a571-0179-454e-a5dd-ffaabfae3d91.png)
 
 
